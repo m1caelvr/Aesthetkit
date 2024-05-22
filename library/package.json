@@ -1,0 +1,7 @@
+{
+  "name": "wm-aesthetkit",
+  "version": "1.1.0",
+  "main": "aesthetkit.js",
+  "author": "WebMind",
+  "license": "MIT"
+}
